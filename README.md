@@ -1,4 +1,4 @@
-### Hi,I'm Kriti Verma!
+### Hi, I'm Kriti Verma!
 
 <!--
 **vermakriti/vermakriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
