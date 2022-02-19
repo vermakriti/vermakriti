@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermakriti&label=Profile%20views&color=0e75b6&style=flat" alt="vermakriti" /> </p>
 
-- 🔭 I’m currently working on [Nutrition India](https://www.nutritionindia.info/)
+<!-- - 🔭 I’m currently working on [Nutrition India](https://www.nutritionindia.info/) -->
 
-- 🌱 I’m currently learning **Reactjs,Nodejs,Django**
+<!-- - 🌱 I’m currently learning **Reactjs,Nodejs,Django** -->
 
 - 📫 How to reach me **kriti971115@gmail.com**
 
