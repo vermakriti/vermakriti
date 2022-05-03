@@ -1,11 +1,11 @@
-<h1 align="center">Hi Traveller👋, I'm Kriti</h1>
+<!-- <h1 align="center">Hi Traveller👋, I'm Kriti</h1>
 <h3 align="center">Programmer | Developer | Passionate Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermakriti&label=Profile%20views&color=0e75b6&style=flat" alt="vermakriti" /> </p>
 
-<!-- - 🔭 I’m currently working on [Nutrition India](https://www.nutritionindia.info/) -->
+🔭 I’m currently working on [Nutrition India](https://www.nutritionindia.info/)
 
-<!-- - 🌱 I’m currently learning **Reactjs,Nodejs,Django** -->
+🌱 I’m currently learning **Reactjs,Nodejs,Django**
 
 - 📫 How to reach me **kriti971115@gmail.com**
 
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vermakriti&show_icons=true&locale=en" alt="vermakriti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermakriti&" alt="vermakriti" /></p>
+ -->
